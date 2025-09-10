@@ -1,14 +1,20 @@
-- 👋 Hi, I’m @ValeriyStromilov
+# 👋 Hi, I’m @ValeriyStromilov
+
+## About me
 <!---
 - 👀 I’m interested in ... --->
 - 👨‍💻 I started learning programming in 2024, starting with 1C: Enterprise.
-- 🌱 I’m currently learning Python in [THE FOUNDER](https://academy.the-founder.ru/).
+- 🌱 I’m currently learning Python in [THE FOUNDER](https://academy.the-founder.ru/). In 2024 I became interested in AI and began to master the development of neural networks. This area attracted me due to its prospects and the ability to solve complex problems including a creative approach.
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...--->
 - 🌍  I'm based in Rostov-on-Don, Russia
 - 🎯  My goal is to move to the position of a neural network developer, applying the accumulated experience of interacting with technologies and the team to implement innovative projects.
+- 🧑‍🎓 My education and courses:
+- - 2023: Secure Communication Systems Specialist. North Caucasus Branch Moscow Technical University of Communication and Information (bachelor)
+  - 2024: 1C: Enterprise Developer, Pervyi Bit (professional retraining)
+  - 2025: Neural Network Developer, The Founder (professional retraining) 
 - ✉️  You can contact me at [stromilov\_v61@mail.ru](mailto:stromilov_v61@mail.ru) or in Telegram: [@Valeriy_Stromilov](https://t.me/Valeriy_Stromilov)
 
 ## Projects realized

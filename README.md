@@ -50,7 +50,7 @@ This system upscales images' resolution through deep learning using the SSResNet
 
 **Project stack**: Python, TensorFlow, Keras, scikit-image, scikit-learn
 
-*It will be uploaded soon!*
+[Link to the project](https://github.com/ValeriyStromilov/AutoEnc-Img-Upscaler)
 
 <!---
 ValeriyStromilov/ValeriyStromilov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

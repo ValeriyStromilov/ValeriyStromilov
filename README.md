@@ -46,7 +46,7 @@ That project based on the LLM allows to display information on a particular wild
 
 #### 📌 AI image upscaling system
 
-This system upscales images' resolution through deep learning using the SSResNet architecture, ensuring detail and clarity of the original images.
+This system upscales images' resolution through deep learning using the SSResNet autoencoder architecture (alongside with CNN), ensuring detail and clarity of the original images.
 
 **Project stack**: Python, TensorFlow, Keras, scikit-image, scikit-learn
 

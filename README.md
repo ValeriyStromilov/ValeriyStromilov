@@ -9,10 +9,10 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...--->
-- 🌍  I'm based in Rostov-on-Don, Russia
-- 🎯  My goal is to move to the position of a neural network developer, applying the accumulated experience of interacting with technologies and the team to implement innovative projects.
+- 🌍 I'm based in Rostov-on-Don, Russia.
+- 🎯 My goal is to move to the position of a neural network developer, applying the accumulated experience of interacting with technologies and the team to implement innovative projects.
 - 🧑‍🎓 My education and courses:
-- - 2023: Secure Communication Systems Specialist, North Caucasus Branch Moscow Technical University of Communication and Information (bachelor)
+  - 2023: Secure Communication Systems Specialist, North Caucasus Branch Moscow Technical University of Communication and Information (bachelor)
   - 2024: 1C: Enterprise Developer, Pervyi Bit (professional retraining)
   - 2025: Neural Network Developer, The Founder (professional retraining) 
 - ✉️  You can contact me at [stromilov\_v61@mail.ru](mailto:stromilov_v61@mail.ru) or in Telegram: [@Valeriy_Stromilov](https://t.me/Valeriy_Stromilov)
@@ -46,7 +46,7 @@ That project based on the LLM allows to display information on a particular wild
 
 #### 📌 AI image upscaling system
 
-This system upscales images' resolution through deep learning using the SSResNet autoencoder architecture (alongside with CNN), ensuring detail and clarity of the original images.
+This system upscales images' resolution through deep learning using the SSResNet autoencoder architecture (alongside with CNN), ensuring details and clarity of the original images.
 
 **Project stack**: Python, TensorFlow, Keras, scikit-image, scikit-learn
 

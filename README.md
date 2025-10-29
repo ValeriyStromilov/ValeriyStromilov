@@ -50,6 +50,8 @@ This system upscales images' resolution through deep learning using the SSResNet
 
 **Project stack**: Python, TensorFlow, Keras, scikit-image, scikit-learn
 
+[Link to the project](https://github.com/ValeriyStromilov/AutoEnc-Img-Upscaler)
+
 #### 📌 AI chat app using OpenRouter.ai
 
 Simple app built using the Flet for communicating with tens of different AI models via OpenRouter.ai
